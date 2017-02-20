@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">Retrofit2</string>
+	<string name="city">city</string>
+	<string name="refresh">REFRESH</string>
+</resources>
